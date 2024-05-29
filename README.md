@@ -1,6 +1,6 @@
-### boas vindas ao meu perfil
+## boas  vindas ao meu perfil
 
-meu nome e Lyvia R. Lopes 
+meu nome é Lyvia R. Lopes 
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem no JavasScript
